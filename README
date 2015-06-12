@@ -1,0 +1,1 @@
+Bash script to automatically install Wordpress when given a domain name. This particular script is made to run on servers under the Managed Operations service level atRackspace. Use at your own risk.
